@@ -1,0 +1,47 @@
+Git Branch
+
+A branch in Git is a lightweight, movable pointer to a commit. Branches are used to develop features, fix bugs, or experiment in isolation from the main codebase. The default branch in most repositories is called `main` or `master`.
+
+Key Commands:
+1. Create a new branch:
+    ```
+    git branch <branch-name>
+    ```
+
+2. Switch to a branch:
+    ```
+    git checkout <branch-name>
+    ```
+    or (modern syntax):
+    ```
+    git switch <branch-name>
+    ```
+
+3. Create and switch to a new branch:
+    ```
+    git checkout -b <branch-name>
+    ```
+    or:
+    ```
+    git switch -c <branch-name>
+    ```
+
+4. List all branches:
+    ```
+    git branch
+    ```
+
+5. Delete a branch:
+    ```
+    git branch -d <branch-name>
+    ```
+
+6. Merge a branch into the current branch:
+    ```
+    git merge <branch-name>
+    ```
+
+Branches allow for parallel development and make it easier to manage changes in a collaborative environment. Always remember to push your branches to the remote repository if you want others to access them:
+    ```
+    git push origin <branch-name>
+    ```
