@@ -1,0 +1,19 @@
+Git is a distributed version control system used to track changes in source code during software development. It allows multiple developers to collaborate on a project by managing changes to files and coordinating work. 
+
+Key features of Git:
+1. **Version Control**: Tracks changes to files over time, enabling developers to revert to previous versions if needed.
+2. **Branching and Merging**: Developers can create branches to work on features or fixes independently and merge them back into the main codebase.
+3. **Distributed System**: Every developer has a full copy of the repository, including its history, allowing offline work and redundancy.
+4. **Collaboration**: Git facilitates collaboration by enabling multiple developers to work on the same project without overwriting each other's changes.
+
+Common Git Commands:
+- `git init`: Initializes a new Git repository.
+- `git clone`: Copies an existing repository to your local machine.
+- `git add`: Stages changes for the next commit.
+- `git commit`: Records changes to the repository.
+- `git push`: Uploads local changes to a remote repository.
+- `git pull`: Fetches and integrates changes from a remote repository.
+- `git branch`: Lists, creates, or deletes branches.
+- `git merge`: Combines changes from different branches.
+
+Git is widely used in software development and integrates with platforms like GitHub, GitLab, and Bitbucket for remote repository hosting and collaboration.
