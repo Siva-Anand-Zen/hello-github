@@ -1,4 +1,5 @@
-# Welcome to Hello GitHub from conflict-demo branch!
+# Welcome to Hello GitHub
+# Welcome to Hello GitHub
 
 {
     username: Tony-Zen
