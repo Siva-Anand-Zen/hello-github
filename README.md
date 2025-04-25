@@ -15,3 +15,7 @@
 {
     username: loneWolf-Zen
 }
+
+---
+
+© 2025 ZenSuite. All rights reserved.
