@@ -18,4 +18,8 @@
 
 ---
 
+© 2025 ZenSuite AI. All rights reserved.
+
+---
+
 © 2025 ZenSuite. All rights reserved.
