@@ -1,4 +1,5 @@
-# hello-github
+# Welcome to Hello GitHub
+# Welcome to Hello GitHub
 
 {
     username: Tony-Zen
